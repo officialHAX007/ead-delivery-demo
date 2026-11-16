@@ -28,3 +28,5 @@ This project demonstrates local validation, automated testing,
 and website packaging with Git-based delivery.
 Feature branch workflow: changes are reviewed through
 pull requests before merging into main.
+The ci-demo branch demonstrates automated CI validation and
+ downloadable build artifacts.
