@@ -26,3 +26,5 @@ The local preview is not a production service.
 - This is CI plus artifact delivery, not a deployed running application.
 This project demonstrates local validation, automated testing,
 and website packaging with Git-based delivery.
+Feature branch workflow: changes are reviewed through
+pull requests before merging into main.
